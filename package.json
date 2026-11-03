@@ -1,0 +1,26 @@
+{
+  "name": "fsd-mid-term-1_cse16_250320100286",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpitgltsvm-bit/FSD-mid-term-1_CSE16_250320100286.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arpitgltsvm-bit/FSD-mid-term-1_CSE16_250320100286/issues"
+  },
+  "homepage": "https://github.com/arpitgltsvm-bit/FSD-mid-term-1_CSE16_250320100286#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "express.js": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
